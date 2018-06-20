@@ -109,10 +109,10 @@ class ToggleableMenu extends Component {
       return(
         <NavWrapper onClick={this.displayMenuButton}>
           <Nav>
-            <a href="/">HOME</a>
-            <a href="/">HOME</a>
-            <a href="/">HOME</a>
-            <a href="/">HOME</a>
+            <a href="/create-styled-components-app/">HOME</a>
+            <a href="/create-styled-components-app/">HOME</a>
+            <a href="/create-styled-components-app/">HOME</a>
+            <a href="/create-styled-components-app/">HOME</a>
           </Nav>
         </NavWrapper>
       )
